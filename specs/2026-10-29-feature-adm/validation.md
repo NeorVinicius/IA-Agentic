@@ -6,8 +6,16 @@
 - [ ] API Node.js com TypeScript inicia e responde na rota de saúde.
 - [ ] API consegue abrir a conexão inicial com SQLite.
 - [ ] Build e verificações de tipos passam para os componentes implementados.
-- [ ] Instruções de configuração e execução foram atualizadas.
-- [ ] Nenhum fluxo de login ou gerenciamento de notícias foi incluído fora do escopo.
+- [x] Instruções de configuração e execução foram atualizadas.
+- [x] Nenhum fluxo de login ou gerenciamento de notícias foi incluído fora do escopo.
+
+## Resultado desta implementação
+
+- Foram adicionados testes automatizados para a rota de saúde e a abertura/query
+  SQLite.
+- A execução dos testes, instalação, build e verificação de tipos ainda precisa
+  ser feita em um ambiente com Node.js e npm. Esses executáveis não estão
+  disponíveis no ambiente desta implementação.
 
 ## Merge
 
